@@ -1,8 +1,7 @@
 package leveldb
 
 /*
-#cgo LDFLAGS: -lleveldb
-#include <leveldb/c.h>
+#include "leveldb/c.h"
 */
 import "C"
 
